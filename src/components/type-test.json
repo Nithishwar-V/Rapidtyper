@@ -1,0 +1,54 @@
+{
+    "easy": {
+      "30": [
+        "The sun shines brightly in the sky. Birds are singing, and the flowers are blooming. The day feels warm and inviting, perfect for a walk in the park.",
+        "Children play in the park, laughing and enjoying the sunny day. They run around, playing games and having fun, their joyful voices filling the air.",
+        "A gentle breeze rustles the leaves, creating a soothing sound. The trees sway gently, and the grass ripples like waves in the wind."
+      ],
+      "60": [
+        "The cat sat on the windowsill, lazily watching the world go by. Its eyes followed the movements of people and cars on the street below. The sun warmed its fur.",
+        "A warm cup of tea and a good book are the perfect companions for a rainy afternoon at home. The rain taps gently on the windows, and the soft glow of the lamp creates a cozy atmosphere. It's an ideal time for relaxation.",
+        "The old tree stood tall and strong, its branches reaching out like welcoming arms. Its leaves rustled softly in the breeze, and birds perched on its branches, singing sweet melodies. It was a symbol of strength."
+      ],
+      "120": [
+        "In the middle of the forest, there was a small cottage surrounded by tall trees and colorful flowers. The sound of a babbling brook added to the peaceful atmosphere. Inside the cottage, a fire crackled in the fireplace, and the smell of fresh bread filled the air. It was a place of warmth and comfort, a refuge from the world outside. The simplicity of the surroundings brought a sense of peace to all who visited.",
+        "The little boy loved to visit his grandparents' farm. He enjoyed feeding the animals and helping with the chores. It was a place full of love and joy, filled with happy memories. The boy would run through the fields, play with the dogs, and help collect eggs from the chickens, always finding adventure. The farm was a place of learning and discovery, where each day brought new experiences.",
+        "On a cool autumn day, families gathered in the park for a picnic. They spread out blankets and shared delicious food, while children played games and adults chatted together. The leaves had turned vibrant shades of red and gold, and the air was crisp and refreshing. It was a perfect day for spending time with loved ones, a moment to cherish and remember. The laughter and joy of the day would stay with them forever."
+      ]
+    },
+    "medium": {
+      "30": [
+        "The city streets were bustling with activity. People hurried to their destinations, their footsteps echoing on the pavement. The sounds of car horns and chatter filled the air.",
+        "In the library, the smell of old books filled the air. Students were engrossed in their studies, barely noticing the passage of time. The quiet hum of whispers created a peaceful atmosphere.",
+        "The artist stood before the blank canvas, envisioning the masterpiece that would soon come to life. Brushes and paints were laid out, ready to be used for the creation."
+      ],
+      "60": [
+        "The tall skyscrapers of the city created a stunning skyline. As the sun set, the buildings were bathed in a golden glow, casting long shadows on the streets below. The city lights began to twinkle, creating a mesmerizing display.",
+        "In the quiet countryside, the sound of chirping crickets and rustling leaves was the only noise. The stars twinkled brightly in the clear night sky, creating a serene atmosphere. A gentle breeze carried the scent of flowers and grass. The tranquility of the night was soothing.",
+        "The chef carefully prepared the ingredients for the evening's meal. Each step was performed with precision and expertise, resulting in a culinary delight for all to enjoy. The kitchen was filled with the aromas of spices and herbs, creating a symphony of flavors."
+      ],
+      "120": [
+        "The old mansion on the hill had a mysterious aura. It was said to be haunted by the ghost of a former resident. Despite the rumors, a brave group of friends decided to explore the mansion one night. They discovered hidden rooms and secret passages, adding to the intrigue. The air was thick with suspense, and every creak of the floorboards sent shivers down their spines. The friends' excitement grew as they delved deeper into the mansion's secrets. Their adventure became an unforgettable experience.",
+        "The young scientist was passionate about discovering new ways to help the environment. Her research focused on finding sustainable solutions to reduce pollution and conserve natural resources. She believed that small changes could make a big difference in the world. Her dedication and hard work inspired others to join her cause. Together, they made significant progress in developing eco-friendly technologies and practices, paving the way for a greener future. The impact of their efforts was felt far and wide.",
+        "In the heart of the bustling city, there was a hidden garden. It was a place of tranquility and beauty, where people could escape the chaos and find solace among the flowers and trees. The garden was carefully tended by a dedicated group of volunteers. It was a sanctuary for both people and wildlife, providing a haven of peace in the midst of the urban jungle. Visitors left the garden feeling refreshed and rejuvenated, grateful for the serenity it offered. The garden became a cherished oasis for all who discovered it."
+      ]
+    },
+    "hard": {
+      "30": [
+        "The intricate design of the ancient artifact fascinated archaeologists. Each detail told a story of a civilization long forgotten. The artifact was made of precious metals and adorned with intricate carvings.",
+        "In the dimly lit room, the detective analyzed the evidence, piecing together the clues to solve the complex case. Each piece of evidence was a small part of the larger puzzle.",
+        "The symphony orchestra performed with impeccable precision, captivating the audience with their harmonious melodies. Each musician played their part flawlessly, creating a beautiful blend of sounds."
+      ],
+      "60": [
+        "The debate between the two scholars was intense. Each presented compelling arguments, backed by extensive research and evidence, challenging each other's viewpoints. The audience listened attentively, captivated by the intellectual exchange.",
+        "The mountaineers faced numerous challenges as they ascended the treacherous peak. The harsh weather and difficult terrain tested their endurance and determination to reach the summit. Every step was a struggle, but their determination never wavered.",
+        "In the laboratory, the scientists conducted a series of experiments to test their hypothesis. Their findings would have significant implications for the field of medicine and future treatments. The research was meticulous and thorough, with every detail carefully recorded."
+      ],
+      "120": [
+        "The futuristic city was a marvel of engineering and technology. Skyscrapers reached for the skies, connected by high-speed transportation networks. Innovations in renewable energy powered the city, making it a beacon of sustainability. People from all over the world visited to witness its advancements firsthand. The city was a testament to human ingenuity and the limitless possibilities of technology. It showcased the potential of a harmonious coexistence between urban development and environmental preservation. The future seemed bright and full of promise.",
+        "The philosopher's writings delved into the complexities of human existence. His profound insights challenged readers to contemplate the nature of reality and the essence of life. His works influenced many, sparking discussions and debates among scholars. The philosopher's legacy lived on through his writings, inspiring future generations to seek knowledge and understanding. His ideas continued to shape philosophical thought and encourage deep reflection on the human condition. The philosopher's impact on the world of ideas was immeasurable.",
+        "In the realm of artificial intelligence, researchers were making groundbreaking advancements. The development of machine learning algorithms was revolutionizing industries, from healthcare to finance. These innovations were changing the way people lived and worked, offering new opportunities and challenges. The potential of artificial intelligence was vast, and researchers were only beginning to scratch the surface. Their efforts were paving the way for a future where intelligent machines could enhance human capabilities and address complex problems. The promise of a new era of technological advancement was on the horizon."
+      ]
+    }
+  }
+  
