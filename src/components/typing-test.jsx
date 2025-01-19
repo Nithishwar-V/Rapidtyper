@@ -146,7 +146,7 @@ const TypingTest = () => {
             </p>
           </div>
           <Icon
-            name="redo"
+            name="refresh"
             size="large"
             onClick={refreshParagraph}
             className="refresh-icon"
